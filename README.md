@@ -1,1 +1,0 @@
-# smartblind_raspberry
